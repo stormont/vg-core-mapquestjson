@@ -6,3 +6,5 @@ This is a simple for parsing JSON results returned from the MapQuest Open API (h
 JSON objects are built by class constructors in a simple, easy-to-read and easy-to-extend format. Actual JSON parsing to build the objects is performed by the JsonParser class of vg-java-jsonparser.
 
 It leverages the open-source vg-java-jsonparser Java library available here: https://bitbucket.org/stormont/vg-java-jsonparser
+
+It is used in live production for the Android Weather Route app: https://play.google.com/store/apps/details?id=com.voyagegames.weatherroute
